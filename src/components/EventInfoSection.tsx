@@ -35,7 +35,7 @@ const EventInfoSection: React.FC = () => {
     },
     {
       icon: Coffee,
-      title: 'Free Snacks',
+      title: 'Snacks and Beverages',
       description: 'Complimentary refreshments'
     }
   ];
